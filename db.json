@@ -1,18 +1,22 @@
 {
 	"listadeusuarios":[
-		{
+		{	
+			"usuario": "anaelisa",
 			"nombre":"Ana Elisa",
 			"foto": "https://raw.githubusercontent.com/rafa5551/api_bukowski/main/img/arboles.jpg"
 		},
 		{
+			"usuario": "juanpablo",
 			"nombre":"Juan Pablo",
 			"foto": "https://raw.githubusercontent.com/rafa5551/api_bukowski/main/img/art.png"
 		},
 		{
+			"usuario":"rafaeldavila"
 			"nombre":"Rafael Dávila",
 			"foto": "https://raw.githubusercontent.com/rafa5551/api_bukowski/main/img/dinosaur.jpg"
 		},
 		{
+			"usuario":"diegomartini"
 			"nombre":"Diego Martin",
 			"foto": "https://raw.githubusercontent.com/rafa5551/api_bukowski/main/img/knight.jpg"
 		}
